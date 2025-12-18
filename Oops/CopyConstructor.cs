@@ -22,7 +22,7 @@ namespace Oops
         }
 
         // copy Constructor
-        public CopyConstructorExample(CopyConstructorExample copyex)
+        public CopyConstructorExample(CopyConstructorExample copyex)  
         {
             NewName = copyex.Name;
             NewAge = copyex.Age;
