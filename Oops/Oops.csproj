@@ -5,7 +5,7 @@
 		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<StartupObject>Oops.CopyConstructor</StartupObject>
+		<StartupObject>Oops.GenaricDelegatesTest</StartupObject>
 	</PropertyGroup>
 
 </Project>
