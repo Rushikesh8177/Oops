@@ -5,7 +5,7 @@
 		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<StartupObject>Oops.GenaricDelegatesTest</StartupObject>
+		<StartupObject>Oops.ExtensionCall</StartupObject>
 	</PropertyGroup>
 
 </Project>
